@@ -1,11 +1,2 @@
-# CrystalLight_Gameton
-
-
-
-## AS-IF
-
-
-## Challenge
-
-
-## TO-BE
+# CrystalLight
+게임톤 출품작
